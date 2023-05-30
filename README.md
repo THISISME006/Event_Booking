@@ -1,4 +1,4 @@
-# Movie Ticket Booking System
+# Event Booking System
 
 This is a application with rest apis for a movie ticket booking system. Inspiration for this project is the application/website book my show. I have tried to include apis with similar functionallity
 
